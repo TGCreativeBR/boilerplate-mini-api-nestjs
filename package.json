@@ -29,7 +29,7 @@
     "knex": "^3.0.1",
     "nest-knexjs": "^0.0.25",
     "pg": "^8.10.0",
-    "reflect-metadata": "^0.1.13",
+    "reflect-metadata": "^0.2.2",
     "rxjs": "^7.2.0"
   },
   "devDependencies": {
